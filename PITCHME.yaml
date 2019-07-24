@@ -20,3 +20,4 @@ footnote : "© 2019 Yu Tanaka"
 #スライドのページ数表示の設定
 slide-number: true
 
+transition: fade
